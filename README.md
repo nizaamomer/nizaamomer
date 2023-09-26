@@ -1,7 +1,9 @@
 
-  <div style="display: flex;justify-content: center" align="center">
-        <img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" " alt="">
-    </div>
+<div style="display: flex;justify-content: center;" align="center">
+<img src="https://cdn.dribbble.com/users/2789762/screenshots/8630894/media/583b209224b027954cb6e8b9901cb731.gif" alt="" style="aspect-ratio: 4/3;object-fit: contain;height:70vh">
+
+</div>
+
     
 <h1 align="center">Hi 👋, I'm Nizam</h1>
 <h3 align="center">Full Stack Web Developer</h3>
