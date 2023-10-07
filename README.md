@@ -53,6 +53,9 @@
         <a href="https://laravel.com/" target="_blank" rel="noreferrer">
             <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" style="margin-right: 15px;" />
         </a>
+        <a href="https://pinia.vuejs.org/" target="_blank" rel="noreferrer">
+            <img src="https://pinia.vuejs.org/logo.svg" width="36" height="36" alt="Laravel" style="margin-right: 15px;" />
+        </a>
     </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
