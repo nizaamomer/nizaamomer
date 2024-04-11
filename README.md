@@ -69,12 +69,10 @@
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nizaamomer&theme=tokyonight" alt="nizaamomer" /></p>
 
 
-### Badges
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nizaamomer&theme=onedark" alt="nizaamomer" /></a> </p>
+
 
 <b>My GitHub Statistics</b>
-    <div style="display: flex;justify-content: space-around;">
-<a href="http://www.github.com/nizaamomer"><img src="https://github-readme-stats.vercel.app/api?username=nizaamomer&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="nizaamomer's GitHub stats" /></a>
+
 
 <a href="https://github.com/nizaamomer" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizaamomer&langs_count=15&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
