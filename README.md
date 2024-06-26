@@ -7,9 +7,9 @@
 
     
 <h2 align="center">Hi 👋🏻, I'm Nizam Omer</h1>
-<h3 align="center">Full Stack Web Developer</h3>
+<h3 align="center">Full-Stack Web-Developer</h3>
 
-- 🌱 I’m currently learning **Vue js ,Pinia, Inertia 👀**
+- 🌱 I’m currently learning **Nuxt 👀**
 
 - 📫 How to reach me **nizaamomer@gmail.com**
 
