@@ -1,6 +1,11 @@
 <img src="./images/home.jpg" alt="127.0.0.1" style="max-width: 150px; height: auto; border-radius: 20px 50px;">
 
-# Hey there! I'm Nizam 👋
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="./images/home.jpg" alt="127.0.0.1" style="max-width: 150px; height: auto; border-radius: 15px;">
+</div>
+
+
+# Hey there! I'm Nizam 👋🏻
 
 Greetings! I'm a Full Stack Web Developer with a knack for crafting smooth and stylish web apps using Laravel, Vue, and Nuxt.
 
