@@ -1,8 +1,5 @@
-<img src="./images/home.jpg" alt="127.0.0.1" style="max-width: 150px; height: auto; border-radius: 20px 50px;">
+<img src="./images/home.jpg" alt="127.0.0.1" style="max-width: 120px; height: auto; border-radius: 20px 50px;">
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="./images/home.jpg" alt="127.0.0.1" style="max-width: 150px; height: auto; border-radius: 15px;">
-</div>
 
 
 # Hey there! I'm Nizam 👋🏻
