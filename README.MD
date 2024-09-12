@@ -8,7 +8,7 @@ Greetings! I'm a Full Stack Web Developer with a knack for crafting smooth and s
 
 ## 🚀 About Me
 
-- **Full Stack Developer**: Building awesome web apps with Laravel & Vue.js.
+- **Full Stack Developer**: Building awesome web apps with Laravel, Vue.js and Nuxt.js.
 - **Graduated**: Bachelor's in IT from Sulaimani Polytechnic University.
 - **Interests**: Web dev, space, movies, rap music, and rain.
 
