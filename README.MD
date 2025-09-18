@@ -33,7 +33,10 @@ Greetings! I'm a Full Stack Web Developer with a knack for crafting smooth and s
 
 <h3 align="center">Stars</h3>
 <div align="center">
-  <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=nizaamomer&theme=tokyonight" alt="nizaamomer" /></p>
+  <p><img align="center" height="180em" src="https://streak-stats.demolab.com?user=nizaamomer&theme=tokyonight-duo&border_radius=40&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_height=200" alt="nizaamomer" /></p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=nizaamomer&theme=tokyonight-duo&border_radius=40&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_height=200)](https://git.io/streak-stats)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=nizaamomer&theme=tokyonight-duo&hide_border=true&border_radius=40&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&card_height=200)](https://git.io/streak-stats)
 </div>
 
