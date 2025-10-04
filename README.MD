@@ -23,7 +23,7 @@ Greetings! I'm a Full Stack Web Developer with a knack for crafting smooth and s
 - **Email**: [nizaamomer@gmail.com](mailto:nizaamomer@gmail.com)
 - **Facebook**: [Nizam Omer](mailto:nizaamomer@gmail.com)
 - **LinkedIn**: [Nizam Omer](https://www.facebook.com/nizaamomer)
-- **Website**: [My Portfolio](https://nizaam.vercel.app)
+- **Website**: [My Portfolio](https://nizaamomer.com)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nizaamomer&label=Profile%20views&color=0e75b6&style=flat" alt="nizaamomer" /> </p>
 
