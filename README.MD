@@ -3,9 +3,9 @@
 
 # Hey there! I'm Nizam 👋🏻
 
-Greetings! I'm a Full Stack Web Developer with a knack for crafting smooth and stylish web apps using Laravel, Vue, and Nuxt.
+Greetings! I'm a Software Developer with a knack for crafting smooth and stylish web apps using Laravel, Vue, and Nuxt.
 
-[![nizaamomer Nuxter profile](https://nuxters.nuxt.com/card/nizaamomer/og.png)](https://nuxters.nuxt.com/nizaamomer) 
+// [![nizaamomer Nuxter profile](https://nuxters.nuxt.com/card/nizaamomer/og.png)](https://nuxters.nuxt.com/nizaamomer) 
 
 ## 🚀 About Me
 
