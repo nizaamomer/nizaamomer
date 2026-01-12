@@ -5,8 +5,6 @@
 
 Greetings! I'm a Software Developer with a knack for crafting smooth and stylish web apps using Laravel, Vue, and Nuxt.
 
-// [![nizaamomer Nuxter profile](https://nuxters.nuxt.com/card/nizaamomer/og.png)](https://nuxters.nuxt.com/nizaamomer) 
-
 ## 🚀 About Me
 
 - **Full Stack Developer**: Building awesome web apps with Laravel, Vue.js and Nuxt.js.
